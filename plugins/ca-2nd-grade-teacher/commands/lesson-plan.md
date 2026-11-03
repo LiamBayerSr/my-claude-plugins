@@ -9,6 +9,8 @@ Use the `second-grade-teaching` skill for lesson design and the `ca-grade2-stand
 
 If no topic or standard was given, ask for one in a single short question. If no length was given, assume 45 minutes.
 
+If the teacher has shared pages from an adopted curriculum (such as HMH), build the plan around those materials as described in `/plan-from-curriculum` instead of designing from scratch.
+
 Include, in this order:
 1. **Standards** - primary code(s) with a one-line paraphrase; supporting standards; Math Practice or CA NGSS practice if relevant; ELD focus.
 2. **Learning target** - "I can..." in kid language, and a success criterion the teacher can observe.
