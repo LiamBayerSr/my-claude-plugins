@@ -1,0 +1,13 @@
+{
+  "name": "tax-preparer",
+  "displayName": "Tax Preparer",
+  "version": "0.1.0",
+  "description": "Federal tax reference and client workflows for accountants, enrolled agents, and tax preparers: current-year figures, research memos with citations, client checklists and letters, IRS notice responses, and year-end planning.",
+  "author": {
+    "name": "Liam Bayer"
+  },
+  "homepage": "https://github.com/LiamBayerSr/my-claude-plugins",
+  "repository": "https://github.com/LiamBayerSr/my-claude-plugins",
+  "license": "MIT",
+  "keywords": ["tax", "accounting", "cpa", "enrolled-agent", "irs", "tax-preparation"]
+}

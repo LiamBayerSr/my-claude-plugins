@@ -36,6 +36,11 @@
       "name": "ca-5th-grade-teacher",
       "source": "./plugins/ca-5th-grade-teacher",
       "description": "Planning, materials, differentiation, and family communication for California 5th-grade teachers, aligned to state standards."
+    },
+    {
+      "name": "tax-preparer",
+      "source": "./plugins/tax-preparer",
+      "description": "Federal tax research, current-year figures, client checklists and letters, IRS notice responses, and year-end planning for tax professionals."
     }
   ]
 }

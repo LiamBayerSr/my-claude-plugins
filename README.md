@@ -27,6 +27,14 @@ Lesson plans, worksheets, rubrics, unit plans, differentiation, and family messa
 | [ca-4th-grade-teacher](plugins/ca-4th-grade-teacher) | 4th grade | `/plugin install ca-4th-grade-teacher@my-claude-plugins` |
 | [ca-5th-grade-teacher](plugins/ca-5th-grade-teacher) | 5th grade | `/plugin install ca-5th-grade-teacher@my-claude-plugins` |
 
+### Tax professionals
+
+| Plugin | For | Install (Claude Code) |
+|---|---|---|
+| [tax-preparer](plugins/tax-preparer) | CPAs, enrolled agents, and tax preparers | `/plugin install tax-preparer@my-claude-plugins` |
+
+Federal tax research with citations, verified current-year figures, client checklists and letters, IRS notice responses, and year-end planning.
+
 ## For maintainers
 
 The teacher plugins are generated from shared templates. Edit files in `tools/ca-teacher/` (templates, grade standards, and the grade table in `build.py`), then run:
