@@ -1,5 +1,6 @@
 # Wage and hour basics (California)
-\nVerified November 2026 against the Labor Code, Government Code, and DIR and Civil Rights Department guidance.
+
+Verified November 2026 against the Labor Code, Government Code, and DIR and Civil Rights Department guidance.
 
 Check the applicable Industrial Welfare Commission (IWC) wage order for the industry; details vary.
 

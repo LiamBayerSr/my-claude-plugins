@@ -1,5 +1,6 @@
 # Training, plans, reporting, and postings (California)
-\nVerified November 2026 against the Labor Code, Government Code, and DIR and Civil Rights Department guidance.
+
+Verified November 2026 against the Labor Code, Government Code, and DIR and Civil Rights Department guidance.
 
 ## Sexual harassment prevention training (Gov. Code §12950.1) - 5+ employees
 - Supervisors: 2 hours; non-supervisory employees: 1 hour.

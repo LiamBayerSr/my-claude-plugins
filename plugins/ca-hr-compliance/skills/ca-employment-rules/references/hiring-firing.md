@@ -1,5 +1,6 @@
 # Hiring, onboarding, and separation (California)
-\nVerified November 2026 against the Labor Code, Government Code, and DIR and Civil Rights Department guidance.
+
+Verified November 2026 against the Labor Code, Government Code, and DIR and Civil Rights Department guidance.
 
 ## Hiring restrictions
 - **Pay transparency (Labor Code §432.3):** employers with 15+ employees must include a pay scale in job postings (since 2026, a good-faith estimate of the range the employer reasonably expects to pay); all employers must give the pay scale for the position to an applicant who asks and to current employees for their own position. Keep job title and wage history records.
