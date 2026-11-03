@@ -1,4 +1,5 @@
 # Leave and protected time off (California)
+\nVerified November 2026 against the Labor Code, Government Code, and DIR and Civil Rights Department guidance.
 
 Headcount thresholds count all employees, including those outside California for some laws. Confirm the employer's count.
 
