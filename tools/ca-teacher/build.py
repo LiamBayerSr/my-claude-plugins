@@ -290,6 +290,9 @@ def build(code: str, g: dict) -> None:
         "keywords": ["education", "teacher", g["adj"], "california", "lesson-planning", "elementary"],
     }
     (out / ".claude-plugin" / "plugin.json").write_text(json.dumps(manifest, indent=2) + "\n")
+    icon = HERE / "icons" / f"{code}.png"
+    if icon.exists():
+        shutil.copy(icon, out / ".claude-plugin" / "icon.png")
 
     (out / "commands").mkdir()
     for cmd in sorted((TEMPLATES / "commands").glob("*.md")):
