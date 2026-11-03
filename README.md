@@ -35,6 +35,14 @@ Lesson plans, worksheets, rubrics, unit plans, differentiation, and family messa
 
 Federal tax research with citations, verified current-year figures, client checklists and letters, IRS notice responses, and year-end planning.
 
+### HR professionals
+
+| Plugin | For | Install (Claude Code) |
+|---|---|---|
+| [ca-hr-compliance](plugins/ca-hr-compliance) | HR teams and business owners with California employees | `/plugin install ca-hr-compliance@my-claude-plugins` |
+
+Policy drafting, handbook reviews, new-law summaries, and onboarding, leave, and termination checklists, with verified 2026-2027 pay rates and new laws.
+
 ## For maintainers
 
 The teacher plugins are generated from shared templates. Edit files in `tools/ca-teacher/` (templates, grade standards, and the grade table in `build.py`), then run:

@@ -1,0 +1,13 @@
+{
+  "name": "ca-hr-compliance",
+  "displayName": "California HR Compliance",
+  "version": "0.1.0",
+  "description": "California and federal employment-law reference and HR workflows: policy drafting, handbook reviews, new-law summaries, onboarding and termination checklists, and leave questions, with verified 2026-2027 pay rates and new laws.",
+  "author": {
+    "name": "Liam Bayer"
+  },
+  "homepage": "https://github.com/LiamBayerSr/my-claude-plugins",
+  "repository": "https://github.com/LiamBayerSr/my-claude-plugins",
+  "license": "MIT",
+  "keywords": ["hr", "human-resources", "employment-law", "california", "compliance", "payroll"]
+}

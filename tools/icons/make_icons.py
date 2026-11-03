@@ -68,6 +68,19 @@ TAX_SVG = """<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" 
 """
 
 
+HR_SVG = """<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <rect width="1024" height="1024" rx="224" fill="#2F4A6D"/>
+  <circle cx="512" cy="512" r="360" fill="#243A57" opacity="0.6"/>
+  <path d="M512 170 L780 270 V500 C780 680 660 800 512 860 C364 800 244 680 244 500 V270 Z" fill="#FFFFFF"/>
+  <circle cx="512" cy="430" r="92" fill="#2F4A6D"/>
+  <path d="M352 690 C352 590 428 540 512 540 C596 540 672 590 672 690 C630 740 572 770 512 785 C452 770 394 740 352 690 Z" fill="#2F4A6D"/>
+  <circle cx="742" cy="760" r="138" fill="#F2C14E"/>
+  <circle cx="742" cy="760" r="138" fill="none" stroke="#2F4A6D" stroke-width="16"/>
+  <path d="M680 762 L726 808 L810 720" stroke="#2F4A6D" stroke-width="36" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
+"""
+
+
 def render(svg: str, svg_path: Path, png_path: Path) -> None:
     svg_path.parent.mkdir(parents=True, exist_ok=True)
     png_path.parent.mkdir(parents=True, exist_ok=True)
@@ -80,3 +93,4 @@ if __name__ == "__main__":
     for code, (label, bg, dark) in GRADES.items():
         render(teacher_svg(label, bg, dark), OUT_SVG / f"teacher-{code}.svg", TEACHER_ICONS / f"{code}.png")
     render(TAX_SVG, OUT_SVG / "tax-preparer.svg", REPO / "plugins" / "tax-preparer" / ".claude-plugin" / "icon.png")
+    render(HR_SVG, OUT_SVG / "ca-hr-compliance.svg", REPO / "plugins" / "ca-hr-compliance" / ".claude-plugin" / "icon.png")

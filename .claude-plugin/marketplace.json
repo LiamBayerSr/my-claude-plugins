@@ -41,6 +41,11 @@
       "name": "tax-preparer",
       "source": "./plugins/tax-preparer",
       "description": "Federal tax research, current-year figures, client checklists and letters, IRS notice responses, and year-end planning for tax professionals."
+    },
+    {
+      "name": "ca-hr-compliance",
+      "source": "./plugins/ca-hr-compliance",
+      "description": "California and federal employment-law reference with policy drafting, handbook reviews, new-law summaries, and onboarding, leave, and termination checklists."
     }
   ]
 }
