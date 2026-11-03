@@ -5,7 +5,9 @@ argument-hint: <unit topic> [number of weeks]
 
 Plan a 2nd-grade unit on: $ARGUMENTS
 
-Use the `ca-grade2-standards` skill for alignment and the `second-grade-teaching` skill for design. Default to 3 weeks if no length was given. If the teacher names a district curriculum or pacing guide, fit the unit to it.
+Use the `ca-grade2-standards` skill for alignment and the `second-grade-teaching` skill for design. Default to 3 weeks if no length was given.
+
+Everything below is optional input: if the teacher shares curriculum material (photos, a table of contents, pasted text, or a description) or a pacing guide, fit the unit to it; if they share a unit-plan template, follow "Using the teacher's template" and use its structure instead of the list below. Otherwise build from the standards.
 
 Provide:
 1. **Big idea and essential question** in kid language.

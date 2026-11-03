@@ -61,6 +61,17 @@ Many California districts adopt a core program, such as HMH's Into Reading or In
 - Keep the program's objectives, sequence, routines, and practice pages. Add what teachers usually must build themselves: minute-by-minute timing, a kid-language learning target, ELD supports, differentiation, and a quick check.
 - The materials are copyrighted and licensed to the teacher's school. Summarize and reference pages ("TE p. 84") instead of reproducing them, and do not recreate a program's worksheets wholesale; make new practice only when asked.
 - If the program's lesson doesn't fit the time available, suggest what to trim or move to small groups rather than cutting the core practice.
+- Curriculum can arrive as photos, a PDF, pasted text, or just the teacher's description ("HMH math, Module 4, Lesson 3 is about adding three-digit numbers with regrouping; the page has 10 problems"). Work with whatever detail is given and note where more would help.
+
+## Using the teacher's template
+
+Many schools require a specific lesson plan template. When the teacher provides one (a document, photo, or pasted outline) for any planning task:
+
+- **The template wins.** Use its exact section headings, order, and fields. Do not add sections it doesn't have; fold extra content (like ELD frames) into the closest existing section, or list it under "Additional notes" only if the template has no fitting place.
+- **Fill every field.** If a field asks for something you can't know (room number, observer, date), leave a clear blank like "[fill in]" rather than guessing.
+- **Match the format.** If the template is a Word document, offer the completed plan as a Word file in the same layout so the teacher can submit it directly. If it's a table, keep the table.
+- **Reuse it.** Once a template appears in the conversation or the teacher's Project files, use it for later plans in that conversation without asking again. Suggest the teacher keep it in a Claude Project so it's available every time.
+- If no template is provided, use the command's default format.
 
 ## Boundaries
 

@@ -2,14 +2,20 @@
 
 A Claude plugin for California 2nd-grade teachers. It drafts lesson plans, worksheets, rubrics, unit plans, differentiated activities, and family messages, aligned to California state standards and built around how 7- and 8-year-olds learn.
 
-## What's inside
+## Works with or without your materials
 
-**Commands**
+Every command works on its own. Add more and the output gets more specific:
+
+- **Your curriculum** (optional) - attach photos or a PDF of the pages, paste the text, or just describe the lesson. Works with HMH or any program. Without it, plans are built from the standards.
+- **Your template** (optional) - attach your school's lesson plan template and the plan comes back in that exact layout, as a Word file if your template is one. Without it, a clean default format is used.
+
+Tip: keep your template in a Claude Project so it's there every time.
+
+## Commands
 
 | Command | What it does |
 |---|---|
-| `/plan-from-curriculum <lesson or week>` | Turns HMH (or other adopted curriculum) pages into a ready-to-teach lesson or week plan |
-| `/lesson-plan <topic or standard>` | Standards-aligned lesson with ELD supports and differentiation |
+| `/lesson-plan <topic, standard, or lesson>` | A lesson or a whole week, with timing, ELD supports, and differentiation |
 | `/worksheet <skill or standard>` | Printable practice in three levels, with answer keys |
 | `/rubric <assignment>` | Four-level rubric plus a kid-friendly "I can" checklist |
 | `/differentiate <lesson>` | Adapts an activity for English learners, struggling readers, and advanced students |
@@ -19,11 +25,13 @@ A Claude plugin for California 2nd-grade teachers. It drafts lesson plans, works
 **Skills** (Claude uses these automatically)
 
 - **ca-grade2-standards** - paraphrased California grade 2 standards for Math, ELA, CA NGSS science, History-Social Science, and ELD, by code
-- **second-grade-teaching** - child development, lesson design, English learner support, student privacy, and family communication
+- **second-grade-teaching** - child development, lesson design, working from adopted curriculum, using your template, English learner support, student privacy, and family communication
 
 ## Install
 
-In Claude Code:
+**Claude app (web or desktop):** Customize → Plugins → Add → Add marketplace → Add from a repository → `LiamBayerSr/my-claude-plugins`, then add California 2nd Grade Teacher. Requires a paid Claude plan.
+
+**Claude Code:**
 
 ```
 /plugin marketplace add LiamBayerSr/my-claude-plugins
@@ -34,7 +42,8 @@ In Claude Code:
 
 ```
 /lesson-plan 2.NBT.5 adding within 100 using place value, 50 min
-/plan-from-curriculum HMH Into Math Module 3 Lesson 2 [attach photos]
+/lesson-plan HMH math Module 3 Lesson 2 [attach page photos and your template]
+/lesson-plan week of reading lessons on vowel teams [paste the curriculum text]
 /worksheet telling time to the nearest five minutes
 /differentiate [paste a reading activity]
 /parent-email great progress in reading fluency, Spanish
@@ -42,7 +51,7 @@ In Claude Code:
 
 ## Privacy
 
-The plugin is designed so teachers never need to share student names or records. It uses placeholders like "[Student]" and describes needs instead of children.
+The plugin is designed so teachers never need to share student names or records. It uses placeholders like "[Student]" and describes needs instead of children. Curriculum pages you attach are used only in your conversation; they are never part of this plugin.
 
 ## Disclaimer
 
