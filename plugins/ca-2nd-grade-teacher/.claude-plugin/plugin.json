@@ -1,0 +1,13 @@
+{
+  "name": "ca-2nd-grade-teacher",
+  "displayName": "California 2nd Grade Teacher",
+  "version": "0.1.0",
+  "description": "Lesson plans, worksheets, rubrics, differentiation, and parent communication for California 2nd-grade teachers, aligned to the California Common Core, CA NGSS, History-Social Science, and ELD standards.",
+  "author": {
+    "name": "Liam Bayer"
+  },
+  "homepage": "https://github.com/LiamBayerSr/my-claude-plugins",
+  "repository": "https://github.com/LiamBayerSr/my-claude-plugins",
+  "license": "MIT",
+  "keywords": ["education", "teacher", "second-grade", "california", "lesson-planning", "elementary"]
+}
