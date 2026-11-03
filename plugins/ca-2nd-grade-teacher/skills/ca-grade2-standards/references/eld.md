@@ -1,8 +1,8 @@
-# California English Language Development (ELD) Standards - grade 2 overview
+# California English Language Development (ELD) Standards - K-5 overview
 
 Official text: https://www.cde.ca.gov/sp/el/er/eldstandards.asp
 
-California's ELD standards describe how English learners use English to engage with academic content. They are used together with the content standards, not in place of them.
+California's ELD standards are written by grade level but share one structure. They describe how English learners use English to engage with academic content. They are used together with the content standards, not in place of them.
 
 ## Two kinds of ELD time
 - **Integrated ELD:** every content teacher supports English learners during math, science, social studies, and ELA, using the ELD standards alongside the content standards.

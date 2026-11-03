@@ -43,10 +43,9 @@ Tip: keep your template in a Claude Project so it's there every time.
 ```
 /lesson-plan 2.NBT.5 adding within 100 using place value, 50 min
 /lesson-plan HMH math Module 3 Lesson 2 [attach page photos and your template]
-/lesson-plan week of reading lessons on vowel teams [paste the curriculum text]
 /worksheet telling time to the nearest five minutes
-/differentiate [paste a reading activity]
-/parent-email great progress in reading fluency, Spanish
+/differentiate [paste an activity]
+/parent-email great progress in reading, Spanish
 ```
 
 ## Privacy

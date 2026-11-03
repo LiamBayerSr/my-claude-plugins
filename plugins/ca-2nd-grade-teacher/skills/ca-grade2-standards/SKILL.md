@@ -1,6 +1,6 @@
 ---
 name: ca-grade2-standards
-description: California 2nd-grade content standards by code - Math (CA CCSS), ELA/Literacy (CA CCSS), CA NGSS science, History-Social Science, and ELD proficiency levels. Use whenever aligning a lesson, unit, assessment, or activity to standards, or when the teacher mentions a standard code like 2.NBT.5 or RL.2.3.
+description: California grade 2 content standards by code - Math (CA CCSS), ELA/Literacy (CA CCSS), CA NGSS science, History-Social Science, and ELD proficiency levels. Use whenever aligning a lesson, unit, assessment, or activity to standards, or when the teacher mentions a standard code like 2.NBT.5 or RL.2.3.
 ---
 
 # California grade 2 standards

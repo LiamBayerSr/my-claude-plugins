@@ -1,0 +1,16 @@
+# Grade 1 History-Social Science (California) - paraphrased
+
+Theme: **A Child's Place in Time and Space.** Students learn how to be responsible members of their community and compare life today with life long ago.
+
+Official text: https://www.cde.ca.gov/be/st/ss/
+
+- **1.1** Describe the rights and individual responsibilities of citizenship: understand the rule-making process in a direct democracy (everyone votes on rules) and a representative democracy (an elected group makes rules), and give examples of both in the classroom, school, and community; understand the elements of fair play and good sportsmanship, respect for others' rights and opinions, and respect for rules by which we live.
+- **1.2** Compare and contrast the absolute and relative locations of places and people and describe the physical and human characteristics of places: locate on maps and globes their local community, California, the United States, the seven continents, and the four oceans; compare the information that can be derived from a three-dimensional model with a picture of the same location; construct a simple map using cardinal directions and map symbols; describe how location, weather, and physical environment affect the way people live.
+- **1.3** Know and understand the symbols, icons, and traditions of the United States that provide continuity and a sense of community across time: recite the Pledge of Allegiance and sing patriotic songs, understand the significance of national holidays and the heroism of the people associated with them, and identify American symbols, landmarks, and essential documents (flag, bald eagle, Statue of Liberty, Constitution) and know the people and events associated with them.
+- **1.4** Compare and contrast everyday life in different times and places around the world and recognize that some aspects of people, places, and things change over time while others stay the same: examine the structure of schools and communities in the past, study transportation methods of earlier days, and recognize similarities and differences of earlier generations in work, dress, manners, stories, games, and festivals.
+- **1.5** Describe the human characteristics of familiar places and the varied backgrounds of American citizens and residents: recognize the ways in which they are all part of the same community, sharing principles, goals, and traditions despite varied ancestry; understand the ways in which American Indians and immigrants have helped define California and American culture; compare the beliefs, customs, ceremonies, traditions, and social practices of the varied cultures, drawing from folklore.
+- **1.6** Understand basic economic concepts and the role of individual choice in a free-market economy: understand the concept of exchange and the use of money to purchase goods and services, and identify the specialized work people do to manufacture, transport, and market goods and services and the contributions of those who work in the home.
+
+## Teaching notes
+- Use students' own families and neighborhoods as a starting point, with inclusive options for every kind of family.
+- When studying cultures and traditions (1.5), let students and families share their own traditions rather than presenting generalized cultural "facts."

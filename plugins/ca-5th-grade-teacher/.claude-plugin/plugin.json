@@ -1,0 +1,20 @@
+{
+  "name": "ca-5th-grade-teacher",
+  "displayName": "California 5th Grade Teacher",
+  "version": "0.4.0",
+  "description": "Lesson plans, worksheets, rubrics, differentiation, and family communication for California 5th-grade teachers, aligned to California standards. Works with or without your curriculum (HMH or others) and your school's lesson plan template.",
+  "author": {
+    "name": "Liam Bayer"
+  },
+  "homepage": "https://github.com/LiamBayerSr/my-claude-plugins",
+  "repository": "https://github.com/LiamBayerSr/my-claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "education",
+    "teacher",
+    "5th-grade",
+    "california",
+    "lesson-planning",
+    "elementary"
+  ]
+}
