@@ -18,6 +18,7 @@ Tax numbers change every year and sometimes mid-year. Treat this file set as a s
 ## Files
 
 - `references/tax-year-2026.md` - verified 2026 figures (returns filed in 2027)
+- `references/tax-year-2027.md` - 2027 figures (returns filed in 2028); retirement limits and SALT cap still pending as of Nov 2026
 - `references/obbba-2025-changes.md` - One Big Beautiful Bill Act (signed July 2025) individual provisions and their effective years
 - `references/calendar.md` - recurring filing and payment deadlines
 
